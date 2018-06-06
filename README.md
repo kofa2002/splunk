@@ -25,6 +25,6 @@ https://127.0.0.1:8000/en-US/splunkd/__raw/services/server/info/server-info?outp
 
 --------------------------------------
 
-Greats : Cold z3ro , ihab pal and all HTLovers "We Are Back"
+Greats TO : Cold z3ro , ihab pal and all HTLovers "We Are Back"
 
 https://www.0x30.cc/core/
